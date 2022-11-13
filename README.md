@@ -22,6 +22,7 @@ Busy to do the final year project for this semester. I'm tired!
 
 <h3 align="left">Latest dev.to posts:</h3>
 <!-- BLOG-POST-LIST:START -->
+- [New to Dev.to](https://dev.to/haqem/new-to-devto-2c20)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Support:</h3>
