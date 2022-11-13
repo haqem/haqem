@@ -15,7 +15,7 @@ Busy to do the final year project for this semester. I'm tired!
 <a href="https://linkedin.com/ahmad-luqman-haqem" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/linkedin.svg" alt="rahuldkjain" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Latest dev.to posts https://dev.to/haqem</h3>
+<h3 align="left">Latest dev.to posts</h3>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
