@@ -11,8 +11,13 @@ Busy to do the final year project for this semester. I'm tired!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/haqem" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/devdotto.svg" alt="rahuldkjain" height="30" width="40" /></a>
-<a href="https://linkedin.com/ahmad-luqman-haqem" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/linkedin.svg" alt="rahuldkjain" height="30" width="40" /></a>
+<a href="https://haqem.com" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/haqem/haqemdotcom@1.4.8/assets/icon/icon.svg" alt="Haqem.com" height="30" width="30" /></a>
+<a href="https://linkedin.com/ahmad-luqman-haqem" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/linkedin.svg" alt="Ahmad Luqman Haqem" height="30" width="40" /></a>
+<a href="https://facebook.com/AhmadLuqmanHaqem" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/facebppl.svg" alt="Ahmad Luqman Haqem" height="30" width="40" /></a>
+<a href="https://dev.to/haqem" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/devdotto.svg" alt="haqem" height="30" width="40" /></a>
+<a href="https://www.behance.net/haqem/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/behance.svg" alt="haqem" height="30" width="40" /></a>
+<a href="https://dribbble.com/haqem/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/dribbble.svg" alt="haqem" height="30" width="40" /></a>
+<a href="mailto:haqem_rusli@genext.com.my" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/maildotru.svg" alt="Send a mail" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Latest dev.to posts:</h3>
